@@ -1,0 +1,13 @@
+Place Your Ships: At the beginning of the game, each player places their fleet of ships on the game board. Each ship can be placed horizontally or vertically across grid squares, not diagonally. No part of a ship may hang off the edge of the board. Ships may not overlap each other. No ships may be placed on another ship.
+
+Guess Your Opponent's Ship Locations: Once the game begins, players take turns guessing the grid coordinates on the other player's board in an attempt to find and sink their ships. If a player guesses a square containing their opponent's ship, a hit is recorded. If the player guesses a square not containing their opponent's ship, it's a miss.
+
+Sinking Ships: When all of the squares that one of your ships occupies have been hit, the ship will be sunk. You should announce "Hit and sunk".
+
+Winning the Game: The game continues in turns until one player's fleet is completely sunk. That player then loses the game. The other player who still has at least one ship left is the winner.
+
+
+
+NOTE:
+
+Every time it's the computer's turn, the user should click the AI button.
